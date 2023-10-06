@@ -1,0 +1,33 @@
+body{
+    background-color: #bcd1b1;
+    text-align: center;
+    font-family: sans-serif;
+    color: green;
+}
+a{
+    color: brown;
+    text-align: right;
+}
+h2{
+    color: darkgreen;
+}
+img, table, tr, td{
+    border: 3px solid brown;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 35px;
+}
+h1{
+    font-size: 50px;
+}
+footer, header, h1{
+    background-color: black;
+    color: whitesmoke;
+}
+*{
+    border-left: 2px double green;
+    border-right: 2px double green;
+}
